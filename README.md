@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Umbadwar</h1>
-<img src = "https://github.com/VikasUmbadwar/Vikasumbadwar/blob/main/dreams..png" width = "30">
+<!-- <img align = "center" alt= "head" src = "https://github.com/VikasUmbadwar/Vikasumbadwar/blob/main/dreams..png" width = "700" height = " 300"> -->
 <h3 align="center">A passionate frontend developer | Competitive Programmer from the india</h3>
 <img align="right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasumbadwar&label=Profile%20views&color=0e75b6&style=flat" alt="vikasumbadwar" /> </p>
